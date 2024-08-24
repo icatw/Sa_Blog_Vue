@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7c3ad55-5708-4918-99a8-951b8c2d4252" name="更改" comment="feat：添加登录验证" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Composition API Component" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;icatw&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/icatw/Blog_Vue.git&quot;,
+    &quot;accountId&quot;: &quot;0f3f8c10-3747-4add-9ff1-84e3ecc4632a&quot;
+  }
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/blog_admin/package.json" />
+    <dismissed value="$PROJECT_DIR$/blog_client/package.json" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2f8hOaVIVeUnp98PamklK0UqwkP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/dev/code/frontend_code/Sa_Blog_Vue",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.admin_serve.executor": "Run",
+    "npm.build (1).executor": "Run",
+    "npm.build.executor": "Run",
+    "npm.client_build.executor": "Run",
+    "npm.client_serve.executor": "Run",
+    "npm.serve.executor": "Run",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "ts.external.directory.path": "D:\\WebStorm 2021.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "vue.recent.templates": [
+      "Vue Composition API Component"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\dev\code\frontend_code\Blog_Vue\blog_client\src\assets" />
+      <recent name="D:\dev\code\frontend_code\Blog_Vue\blog_admin\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\dev\code\frontend_code\Blog_Vue\blog_client\src\assets" />
+      <recent name="D:\dev\code\frontend_code\Blog_Vue\blog_client\public" />
+      <recent name="D:\dev\code\frontend_code\Blog_Vue\blog_admin\src\assets" />
+      <recent name="D:\dev\code\frontend_code\Blog_Vue\blog_client\src\components\aiChat" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.client_build">
+    <configuration name="admin_serve" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/blog_admin/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="build (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/blog_admin/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="client_build" type="js.build_tools.npm" temporary="true">
+      <package-json value="$PROJECT_DIR$/blog_client/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="client_serve" type="js.build_tools.npm" temporary="true">
+      <package-json value="$PROJECT_DIR$/blog_client/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.admin_serve" />
+      <item itemvalue="npm.build (1)" />
+      <item itemvalue="npm.client_build" />
+      <item itemvalue="npm.client_serve" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.client_build" />
+        <item itemvalue="npm.client_serve" />
+        <item itemvalue="npm.build (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-WS-242.20224.342" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="f7c3ad55-5708-4918-99a8-951b8c2d4252" name="更改" comment="" />
+      <created>1713188582256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713188582256</updated>
+      <workItem from="1713188583618" duration="94679000" />
+      <workItem from="1713871367923" duration="8298000" />
+      <workItem from="1713885588498" duration="13143000" />
+      <workItem from="1714003922021" duration="18658000" />
+      <workItem from="1714303003038" duration="2328000" />
+      <workItem from="1714470934923" duration="3469000" />
+      <workItem from="1714741291684" duration="654000" />
+      <workItem from="1715127380948" duration="453000" />
+      <workItem from="1715128847639" duration="261000" />
+      <workItem from="1715129335973" duration="179000" />
+      <workItem from="1715129533108" duration="1111000" />
+      <workItem from="1715162559859" duration="1768000" />
+      <workItem from="1721045308999" duration="73000" />
+      <workItem from="1721805579094" duration="1521000" />
+      <workItem from="1722302813474" duration="48000" />
+      <workItem from="1723715888123" duration="3806000" />
+      <workItem from="1723829344549" duration="3957000" />
+      <workItem from="1724339019567" duration="528000" />
+      <workItem from="1724342609509" duration="1401000" />
+      <workItem from="1724376792097" duration="2339000" />
+      <workItem from="1724423067053" duration="14948000" />
+      <workItem from="1724488984544" duration="356000" />
+    </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1713190905400</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713190905400</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1713256499233</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713256499233</updated>
+    </task>
+    <task id="LOCAL-00003" summary="三方登录调整">
+      <option name="closed" value="true" />
+      <created>1713274454610</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713274454610</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix：三方登录调整">
+      <option name="closed" value="true" />
+      <created>1713313504263</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713313504263</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix：批量导出调整（支持导出pdf和md文件）">
+      <option name="closed" value="true" />
+      <created>1713358250649</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713358250649</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fix：csdn文章爬虫">
+      <option name="closed" value="true" />
+      <created>1713376175229</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713376175229</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat：集成文心一言实现AI对话">
+      <option name="closed" value="true" />
+      <created>1713878126268</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1713878126268</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat：文心一言样式调整">
+      <option name="closed" value="true" />
+      <created>1713880264765</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1713880264765</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat：导航栏样式调整">
+      <option name="closed" value="true" />
+      <created>1713930350062</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1713930350062</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fix：bug修复">
+      <option name="closed" value="true" />
+      <created>1713950512585</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1713950512585</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fix：前端样式调整">
+      <option name="closed" value="true" />
+      <created>1714016910808</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1714016910808</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fix：前端样式调整">
+      <option name="closed" value="true" />
+      <created>1714094363217</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1714094363217</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fix：前端调整">
+      <option name="closed" value="true" />
+      <created>1723829693502</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1723829693503</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fix：优化响应拦截">
+      <option name="closed" value="true" />
+      <created>1724432354102</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1724432354102</updated>
+    </task>
+    <task id="LOCAL-00015" summary="feat：添加通义请问对话功能">
+      <option name="closed" value="true" />
+      <created>1724438841542</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1724438841542</updated>
+    </task>
+    <task id="LOCAL-00016" summary="feat：添加登录验证">
+      <option name="closed" value="true" />
+      <created>1724478191392</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1724478191392</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="tongyi-ai" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="init commit" />
+    <MESSAGE value="三方登录调整" />
+    <MESSAGE value="fix：三方登录调整" />
+    <MESSAGE value="fix：批量导出调整（支持导出pdf和md文件）" />
+    <MESSAGE value="fix：csdn文章爬虫" />
+    <MESSAGE value="feat：集成文心一言实现AI对话" />
+    <MESSAGE value="feat：文心一言样式调整" />
+    <MESSAGE value="feat：导航栏样式调整" />
+    <MESSAGE value="fix：bug修复" />
+    <MESSAGE value="fix：前端样式调整" />
+    <MESSAGE value="fix：前端调整" />
+    <MESSAGE value="fix：优化响应拦截" />
+    <MESSAGE value="feat：添加通义请问对话功能" />
+    <MESSAGE value="feat：添加登录验证" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat：添加登录验证" />
+  </component>
+</project>
