@@ -28,7 +28,7 @@
 - **个人主页：** [icatw.top](http://icatw.top)
 - **项目链接：** [blog.icatw.top](http://blog.icatw.top)
 - **后台链接：** [admin.icatw.top](http://admin.icatw.top)
-- **Github地址：** [ladidol/hexo-blog-satoken](https://github.com/ladidol/hexo-blog-satoken)
+- **Github地址：** [icatw/Sa-Blog](https://github.com/icatw/Sa-Blog/issues)
 
 ## 技术介绍
 
@@ -84,8 +84,6 @@ blog-springboot
 
 <table align="center"> <tr> <td><img src="https://picgo-iamges.oss-cn-hangzhou.aliyuncs.com/img/image-20240824161845988.png" alt="项目截图1" style="max-width: 100%; height: auto;"/></td> <td><img src="https://picgo-iamges.oss-cn-hangzhou.aliyuncs.com/img/image-20240824161929300.png" alt="项目截图2" style="max-width: 100%; height: auto;"/></td> </tr> <tr> <td><img src="https://picgo-iamges.oss-cn-hangzhou.aliyuncs.com/img/image-20240824161943272.png" alt="项目截图3" style="max-width: 100%; height: auto;"/></td> <td><img src="https://picgo-iamges.oss-cn-hangzhou.aliyuncs.com/img/image-20240824162042865.png" alt="项目截图4" style="max-width: 100%; height: auto;"/></td> </tr> <tr> <td><img src="https://picgo-iamges.oss-cn-hangzhou.aliyuncs.com/img/image-20240824162109205.png" alt="项目截图5" style="max-width: 100%; height: auto;"/></td> <td><img src="https://picgo-iamges.oss-cn-hangzhou.aliyuncs.com/img/image-20240824162205169.png" alt="项目截图6" style="max-width: 100%; height: auto;"/></td> </tr> <tr> <td><img src="https://picgo-iamges.oss-cn-hangzhou.aliyuncs.com/img/image-20240824162228513.png" alt="项目截图7" style="max-width: 100%; height: auto;"/></td> <td><img src="https://picgo-iamges.oss-cn-hangzhou.aliyuncs.com/img/image-20240824162244487.png" alt="项目截图8" style="max-width: 100%; height: auto;"/></td> </tr> <tr> <td><img src="https://picgo-iamges.oss-cn-hangzhou.aliyuncs.com/img/image-20240824162308716.png" alt="项目截图9" style="max-width: 100%; height: auto;"/></td> <td><img src="https://picgo-iamges.oss-cn-hangzhou.aliyuncs.com/img/image-20240824162329195.png" alt="项目截图10" style="max-width: 100%; height: auto;"/></td> </tr> </table> 
 
-当然可以！你可以将启动说明部分的内容进行格式化和优化，以便在 GitHub 的 README 文件中更清晰地传达项目启动步骤。以下是一个优化后的示例：
-
 
 ## 启动说明
 
@@ -94,7 +92,7 @@ blog-springboot
 1. **克隆项目**
 
    ```bash
-   git clone https://github.com/your-repo/your-project.git
+   git clone https://github.com/icatw/Sa-Blog
    cd your-project
    ```
 
@@ -121,17 +119,11 @@ blog-springboot
 
 - **数据库**：第一次启动时，系统会自动创建必要的数据库表格和初始数据。
 - **日志**：启动后可以查看日志以确认项目是否成功启动并运行正常。
-- **问题**：如遇到问题，请参考 [常见问题解答](#) 或在 [Issues](https://github.com/your-repo/your-project/issues) 中提交问题。
+- **问题**：如遇到问题，请参考 [常见问题解答](#) 或在 [Issues](https://github.com/icatw/Sa-Blog/issues) 中提交问题。
 
-如果需要进一步的帮助或有任何问题，请随时在 [GitHub Issues](https://github.com/your-repo/your-project/issues) 中提问或联系项目维护者。
+如果需要进一步的帮助或有任何问题，请随时在 [GitHub Issues](https://github.com/icatw/Sa-Blog/issues) 中提问或联系项目维护者。
 
+与我联系：
 
-### 说明：
+<img align=left src="https://picgo-iamges.oss-cn-hangzhou.aliyuncs.com/img/image-20240824165658509.png" alt="image-20240824165658509" style="zoom:25%;" />
 
-- **步骤明确**：逐步描述从克隆项目到运行项目的每个步骤。
-- **命令示例**：提供了克隆项目的命令，方便用户快速操作。
-- **配置文件**：提到需要修改配置文件，并给出提示。
-- **运行提示**：使用了图片来展示如何运行项目，并提供了相关提示信息。
-- **附加说明**：添加了关于数据库初始化和问题反馈的说明，增强用户体验。
-
-这种格式使得项目的启动说明更加清晰易懂，有助于用户快速上手。
